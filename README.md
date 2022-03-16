@@ -3,6 +3,7 @@
 ### Connect with me here -
 [![Gmail Badge](https://img.shields.io/badge/-heisming@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:heisming@gmail.com)](heisming@gmail.com)
 
+- 🏢 I'm currently working at **Nothing**
 - 🚀 I use daily:
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
@@ -10,7 +11,18 @@
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+ - 📃 I also use and work: 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+- 🌱 Learning all about:
+![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1) 
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 
 GitHub Stats
 
