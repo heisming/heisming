@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/-TypeScript-%23294e80)
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1) 
-![Nest.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
+![Nest.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Nest.JS)
 
 GitHub Stats
 
