@@ -3,7 +3,7 @@
 ### Connect with me here -
 [![Gmail Badge](https://img.shields.io/badge/-heisming@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:heisming@gmail.com)](heisming@gmail.com)
 
-- 🏢 I'm currently working at **Nothing**
+- 🏢 I'm currently working at **9xing**
 - 🚀 I use daily:
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
