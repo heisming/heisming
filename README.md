@@ -1,8 +1,9 @@
-### Hi there 👋 My name is barry lee.
+### Hi there 👋 My name is Barry Lee.
 ### A common web developer based in China.
 ### Connect with me here -
 [![Gmail Badge](https://img.shields.io/badge/-heisming@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:heisming@gmail.com)](heisming@gmail.com)
 
+![:heisming](https://count.getloli.com/get/@:heisming)
 - 🏢 I'm currently working at **9xing**
 - 🚀 I use daily:
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
